@@ -4,46 +4,32 @@ In these notebooks we will look at some of the basics of what qiskit is and what
 
 ## Running on your local machine
 
-<ol>
-    <li>Clone this repository using the command  
 
-    ```
-    git clone https://github.com/DavidFitzharris/EmergingTechnologies
-    ```
-     </li>
+Clone this repository using the command  
+    
+  git clone https://github.com/DavidFitzharris/EmergingTechnologies
 
-    <ol>
-        
-    <li>
+
   
-  Installing Anaconda for use wih Jupyter Notebooks
+Installing Anaconda for use wih Jupyter Notebooks
   [here](https://www.anaconda.com/download)
 
+Packages for notebooks
 
-    </li>
-        
-    <li>Packages for notebooks
+   pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src
 
-    ```
-    pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src
+   pip install pylatexenc
 
-    pip install pylatexenc
+   pip install qiskit-aer
 
-    pip install qiskit-aer
-
-    ```
-     </li>
-
-
-</ol>
 
  ## Resources
     
-    Introduction to python and jupyter notebooks can be found
-    [here](https://learn.qiskit.org/course/ch-prerequisites/introduction-to-python-and-jupyter-notebooks)
+   Introduction to python and jupyter notebooks can be found
+   [here](https://learn.qiskit.org/course/ch-prerequisites/introduction-to-python-and-jupyter-notebooks)
     
 
-    Qiskit also has some very useful guides and 
-    [here](https://learn.qiskit.org/course/ch-prerequisites/introduction-to-python-and-jupyter-notebooks)
+   Qiskit also has some very useful guides and 
+   [here](https://learn.qiskit.org/course/ch-prerequisites/introduction-to-python-and-jupyter-notebooks)
 
 
