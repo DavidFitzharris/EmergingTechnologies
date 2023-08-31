@@ -5,16 +5,16 @@ In these notebooks we will look at some of the basics of what qiskit is and what
 ## Running on your local machine
 
 <ol>
+<li> 
+Installing Anaconda for use wih Jupyter Notebooks at https://www.anaconda.com/download
+</li>
+    
 <li>
 Clone this repository using the command  
     
   git clone https://github.com/DavidFitzharris/EmergingTechnologies
 </li>
-
-<li> 
-Installing Anaconda for use wih Jupyter Notebooks
-  [here](https://www.anaconda.com/download)
-</li>
+    
 <li>
 Packages for notebooks
 
